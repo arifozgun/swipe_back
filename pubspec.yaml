@@ -1,6 +1,6 @@
 name: swipe_back
 description: iOS-style full screen back swipe gesture for Flutter. Enables swiping from anywhere on the screen to navigate back, not just the left edge.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/speakblend/swipe_back
 repository: https://github.com/speakblend/swipe_back
 issue_tracker: https://github.com/speakblend/swipe_back/issues
