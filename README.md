@@ -2,7 +2,7 @@
 
 A simple, drop-in replacement for Flutter's default page transitions that enables an iOS-style back swipe gesture from **anywhere** on the screen, not just the left edge. 
 
-![Swipe Back Demo](https://github.com/user-attachments/assets/edd64ff0-c629-4c46-95d9-5ca3942ef9a7)
+![Swipe Back Demo](https://github.com/user-attachments/assets/3213b346-3940-4abb-abe8-1ade44fe60e6)
 
 ## Features
 
