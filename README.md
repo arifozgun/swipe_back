@@ -15,9 +15,7 @@ A simple, drop-in replacement for Flutter's default page transitions that enable
 
 ```yaml
 dependencies:
-  swipe_back:
-    git:
-      url: https://github.com/your-username/swipe_back.git
+  swipe_back: ^<latest_version>
 ```
 
 ## Usage

@@ -1,3 +1,7 @@
+## 0.0.3
+
+* README updated
+
 ## 0.0.2
 
 * Fix README.md demo video link parsing on pub.dev
